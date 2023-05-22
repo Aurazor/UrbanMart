@@ -1,0 +1,3 @@
+[submodule "urban-mart-mongo-db"]
+	path = urban-mart-mongo-db
+	url = https://github.com/Aurazor/urban-mart-mongo-db.git
